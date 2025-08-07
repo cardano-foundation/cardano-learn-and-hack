@@ -1,7 +1,10 @@
-# Name Achilles-boot 🥾
-Difficulty: TBD
+# Achilles-boot 🥾
 
-Category: Infrastructure 🏗️
+**Difficulty:** Master 🏆
+
+**Category:** Infrastructure 🏗️
+
+<img src="./banner.jpg" alt="A fun picture of a holy boot" width="320"/>
 
 DA log, Epoch 555:
 

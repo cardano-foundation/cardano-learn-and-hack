@@ -1,8 +1,10 @@
 ## 🍪 Grandma's Cookies
 
-**Difficulty:** - Intermediate 🐢
+**Difficulty:** Intermediate 🐢
 
 **Category:** Wallets 👛, Smart Contracts 🧑‍💻
+
+<img src="./banner.jpg" alt="a picture of grandma's cookies" width="320"/>
 
 At long last, my grandma finally shared her legendary cookie recipe with me.
 She handed it over on a handwritten note... along with one delicious cookie.

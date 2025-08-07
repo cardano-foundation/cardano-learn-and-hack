@@ -1,8 +1,10 @@
 # Mama Mbongo's Micro-Loan DeFi Market
 
-## Difficulty: Advanced 🚀
+**Difficulty:**  Advanced 🚀
 
-## Category: DeFi 💰
+**Category:** DeFi 💰
+
+<img src="./banner.png" alt=" Mama Mbongo's market logo" width="320"/>
 
 ## Description
 A fictional Cameroonian market woman, Mama Mbongo, wants to offer micro-loans using Cardano smart contracts. In this challenge, participants will create a minimal DeFi contract that supports lending and repayment of ADA with basic interest. Integrate a JS front-end for simulation. Emphasize financial inclusion through blockchain.

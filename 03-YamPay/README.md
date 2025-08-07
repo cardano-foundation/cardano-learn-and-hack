@@ -1,8 +1,8 @@
 # YamPay: Send ₳da to Your Local Farmer 🍠
 
-## Difficulty: Beginner 🐣
+**Difficulty:**  Beginner 🐣
 
-## Category: Wallets 👛
+**Category:** Wallets 👛
 
 <img src="./banner.png" alt="YamPay - Send ₳da to Your Local Farmer" width="320"/>
 
